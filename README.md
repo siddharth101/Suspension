@@ -1,0 +1,1 @@
+The file `four_block_model_suspy_wire.py` contains the script to generate the state space model for 4 stage suspension used in LIGO. More details on LIGO suspension can be found [here](https://iopscience.iop.org/article/10.1088/0264-9381/19/15/311).
